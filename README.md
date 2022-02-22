@@ -44,11 +44,11 @@
 
 Are you looking to dive deep into **Computer Science** during your time in high school?
 
-Being a high schooler myself, I have found that it is often frustrating how difficult it can be to understand **where** to spend my time, **what** to spend my time on, and **where it will get me**. Something that would have helped me is an **in-depth guide** on how to explore Computer Science. That is what I hope I have provided you with here.
+Being a high schooler myself, I have found that it is often frustrating how difficult it can be to understand **where** to spend my time, **what** to spend my time on, and **where it will get me**. Something that would have helped me is an **in-depth guide** on how to explore Computer Science, and what competitions or actions to take to show off my skills. That is what I hope I have provided you with here.
 
 Computer Science is a **huge realm** of topics spanning from Artificial Intelligence to Competitive Programming to Cryptography and more. Here I will attempt to briefly cover information on how to get started in each topic, which you can select entirely **based on your own interests**!
 
-Please do not be overwhelmed by this list. You are by no means obligated to pursue any one of these tracks. I hope that this can simply serve to inform you of what is possible in high school, something which can be frustrating to be unaware of. With that said, I also hope that you can gain some inspiration from this guide.
+Please do not be overwhelmed by this list. You are by no means obligated to pursue any one of these tracks. This list is also by no means a complete guide. I hope that this can simply serve to inform you of what is possible in high school, something which can be frustrating to be unaware of. With that said, I also hope that you can gain some inspiration from this guide.
 
 To start off, let's get started with **your** interests... Choose a track or two to learn more about!
 
